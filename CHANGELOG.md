@@ -1,6 +1,25 @@
 # Changelog
 
 
+## v1.1.4
+
+[compare changes](https://github.com/gaetansenn/vue3-carousel-nuxt/compare/v1.1.2...v1.1.4)
+
+### 🩹 Fixes
+
+- Remove alias esm resolution handled in 0.3.4 and update packages ([498ab60](https://github.com/gaetansenn/vue3-carousel-nuxt/commit/498ab60))
+- Fix linter ([96ab060](https://github.com/gaetansenn/vue3-carousel-nuxt/commit/96ab060))
+
+### 🏡 Chore
+
+- **release:** V1.1.3 ([2dee9f0](https://github.com/gaetansenn/vue3-carousel-nuxt/commit/2dee9f0))
+- Upgrade to vue3-carousel 0.9.0 ([21d893d](https://github.com/gaetansenn/vue3-carousel-nuxt/commit/21d893d))
+
+### ❤️ Contributors
+
+- Akhtarabbas <akhtarabbas9912@gmail.com>
+- Gaetan SENN ([@gaetansenn](http://github.com/gaetansenn))
+
 ## v1.1.3
 
 [compare changes](https://github.com/gaetansenn/vue3-carousel-nuxt/compare/v1.1.2...v1.1.3)
